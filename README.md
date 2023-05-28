@@ -1,3 +1,3 @@
 # html-css
  HTML5 CSS#
- estou aprendendo a mexer no Github
+ estou aprendendo a criar site e a gerenciar meu Github
